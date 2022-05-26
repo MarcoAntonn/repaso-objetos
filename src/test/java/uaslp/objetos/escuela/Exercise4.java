@@ -1,3 +1,5 @@
+//TIME: me tardé 1hora y 20min ;(
+
 package uaslp.objetos.escuela;
 
 import org.junit.jupiter.api.Assertions;

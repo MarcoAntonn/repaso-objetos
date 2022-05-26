@@ -1,3 +1,5 @@
+//TIME: tardé 50 min pero no me funcionaba por el maven ;(
+
 package uaslp.objetos.escuela;
 
 import org.junit.jupiter.api.Test;

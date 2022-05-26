@@ -1,3 +1,5 @@
+//TIME: Me tardé 30 min
+
 package uaslp.objetos.figuras;
 
 import org.junit.jupiter.api.Assertions;
@@ -56,7 +58,5 @@ public class Exercise3 {
 
         assertFalse(ex instanceof DatoFaltanteException);
         assertEquals("Número de lados válido a partir de 5", ex.getMessage());
-
     }
-
 }

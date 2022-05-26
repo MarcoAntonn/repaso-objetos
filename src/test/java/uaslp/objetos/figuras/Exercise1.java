@@ -1,3 +1,5 @@
+//TIME: Me tardé 30 minutos
+
 package uaslp.objetos.figuras;
 
 import org.junit.jupiter.api.Assertions;
